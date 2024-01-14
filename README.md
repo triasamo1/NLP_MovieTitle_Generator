@@ -10,3 +10,5 @@ Model Inputs:
 
 Model Output:
 - Generated Title
+
+![image info](./TitleGeneratorPoster.png)  
